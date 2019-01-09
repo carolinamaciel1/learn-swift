@@ -1,0 +1,5 @@
+let infos = ("carolina",21,"linda")
+let (nome,idade,beleza) = infos
+print(infos.0)
+print(infos.1)
+print(infos.2)

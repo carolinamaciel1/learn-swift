@@ -1,0 +1,12 @@
+var n: Int
+var nn: Int!
+
+n = 10
+nn = nil
+
+if nn != nil{
+  let soma = n + nn
+  print(soma)
+}else{
+  print("nao foi possivel somar ")
+}

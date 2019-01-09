@@ -1,0 +1,4 @@
+let infos = (nome:"carolina",idade:21,beleza:"linda")
+print("\(infos.nome)")
+print("\(infos.idade)")
+print("\(infos.beleza)")

@@ -1,0 +1,3 @@
+let information = ("carolina",21)
+let (nome,idade) = information
+print("\(nome) tem \(idade) anos de idade.")
